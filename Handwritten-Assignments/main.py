@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# Author: Aman Kumar
-# Version: 1.0.0
+
 
 import pywhatkit as pw
 
